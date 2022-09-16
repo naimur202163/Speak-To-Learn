@@ -3,7 +3,7 @@ import React from "react";
 const E_Book = () => {
   return (
     <div>
-      <h2>E-Book part</h2>
+      <h2>E-Book partss</h2>
     </div>
   );
 };
